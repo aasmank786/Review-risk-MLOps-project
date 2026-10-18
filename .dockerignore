@@ -1,0 +1,8 @@
+.venv/
+data/raw/
+data/processed/
+data/features/
+tests/
+docs/
+.git/
+__pycache__/
